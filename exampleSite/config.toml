@@ -1,4 +1,4 @@
-baseURL = "http://zare.netlify.com"
+baseURL = "https://zare.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
