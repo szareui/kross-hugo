@@ -3,11 +3,12 @@ banner:
   title: Hi! I’m <br> Sedighe<br> UI/UX designer
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: |-
+    It`s Sedighe Zare website, a Product Designer in Iran.
+    I love solving problems with my design solutions.
+    I`m her to share my work and write my experience whit you, I hope this help to us to grow up.
+
+    finally I`ll happy if you like this and share to others.
   button:
     enable: true
     label: know more
