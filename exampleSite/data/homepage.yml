@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Hi! I’m <br> Christoher <br> UX designer
+  title: Hi! I’m <br> Sedighe<br> UI/UX designer
 about:
   enable: true
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -51,18 +51,6 @@ education:
   - title: Computer Engineering
     year: 2016 - 2020
     academy: Yazd University
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
 service:
   enable: true
   title: Services
