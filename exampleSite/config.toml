@@ -2,7 +2,7 @@ baseURL = "https://szare.ir"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Sedighe Zare"
 [[menu.main]]
 URL = "about"
 name = "About"
