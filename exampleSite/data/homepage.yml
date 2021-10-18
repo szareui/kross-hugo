@@ -3,12 +3,10 @@ banner:
   title: Hi! I’m <br> Sedighe</br> UI/UX designer
 about:
   enable: true
-  content: |-
+  content: |
     This is Sedighe Zare's website, a product designer in Iran.
     I love solving problems with my design solutions.
-    I'm here to share my work and write my experience whit you; I hope this helps us grow up.
-
-    Finally, I'll be happy if you like this and share it with others.
+    I'm here to share my work and write my experience with you; I hope this helps us grow.
   button:
     enable: true
     label: know more
