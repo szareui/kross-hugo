@@ -4,11 +4,11 @@ banner:
 about:
   enable: true
   content: |-
-    It`s Sedighe Zare website, a Product Designer in Iran.
+    Its Sedighe Zare website, a Product Designer in Iran.
     I love solving problems with my design solutions.
-    I`m her to share my work and write my experience whit you, I hope this help to us to grow up.
+    I`m here to share my work and write my experience whit you; I hope this helps us grow up.
 
-    finally I`ll happy if you like this and share to others.
+    Finally, I`ll be happy if you like this and share it with others.
   button:
     enable: true
     label: know more
