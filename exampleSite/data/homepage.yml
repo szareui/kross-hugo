@@ -4,11 +4,11 @@ banner:
 about:
   enable: true
   content: |-
-    Its Sedighe Zare website, a Product Designer in Iran.
+    This is Sedighe Zare's website, a product designer in Iran.
     I love solving problems with my design solutions.
-    I`m here to share my work and write my experience whit you; I hope this helps us grow up.
+    I'm here to share my work and write my experience whit you; I hope this helps us grow up.
 
-    Finally, I`ll be happy if you like this and share it with others.
+    Finally, I'll be happy if you like this and share it with others.
   button:
     enable: true
     label: know more
@@ -17,13 +17,16 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Wireframe
+    progress: 80%
+    color: ''
   - title: Web Design
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
+  - title: Responsive Design
     progress: 60%
     color: "#9473e6"
-  - title: After Effects
+  - title: Figma
     progress: 80%
     color: "#bdecf6"
   - title: Web App
@@ -76,7 +79,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
