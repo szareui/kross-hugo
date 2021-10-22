@@ -15,9 +15,6 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Interpersonal, collaborative, and communication skills
-    progress: 50%
-    color: "#fdb157"
   - title: Wireframing and prototyping
     progress: 80%
     color: "#bdecf6"
@@ -30,6 +27,9 @@ skill:
   - title: User testing
     progress: 30%
     color: "#bdecf6"
+  - title: Interpersonal, collaborative, and communication skills
+    progress: 50%
+    color: "#fdb157"
   - title: Critical thinking
     progress: 90%
     color: "#bdecf6"
