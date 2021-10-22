@@ -15,9 +15,9 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Empathy
-    progress: 96%
-    color: "#9473e6"
+  - title: Interpersonal, collaborative, and communication skills
+    progress: 50%
+    color: "#fdb157"
   - title: Wireframing and prototyping
     progress: 80%
     color: "#bdecf6"
@@ -27,12 +27,18 @@ skill:
   - title: Visual communication and UI
     progress: 80%
     color: "#9473e6"
+  - title: User testing
+    progress: 30%
+    color: "#bdecf6"
   - title: Critical thinking
     progress: 90%
     color: "#bdecf6"
   - title: Curiosity and continuous learning
     progress: 70%
     color: "#ffbcaa"
+  - title: Empathy
+    progress: 96%
+    color: "#9473e6"
 experience:
   enable: true
   title: Experience
