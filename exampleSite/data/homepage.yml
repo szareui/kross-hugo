@@ -15,19 +15,22 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Wireframe
-    progress: 80%
-    color: ''
-  - title: Web Design
-    progress: 90%
-    color: "#fdb157"
-  - title: Responsive Design
-    progress: 60%
+  - title: Empathy
+    progress: 96%
     color: "#9473e6"
-  - title: Figma
+  - title: Wireframing and prototyping
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
+  - title: UX writing
+    progress: 60%
+    color: "#fdb157"
+  - title: Visual communication and UI
+    progress: 80%
+    color: "#9473e6"
+  - title: Critical thinking
+    progress: 90%
+    color: "#bdecf6"
+  - title: Curiosity and continuous learning
     progress: 70%
     color: "#ffbcaa"
 experience:
