@@ -43,7 +43,7 @@ experience:
   enable: true
   title: Experience
   item:
-  - logo: images/sepand.png
+  - logo: "/images/sepand.png"
     title: Android Developer
     company: Ama Pardazesh Co.
     duration: Jan 2007 - Feb 2009
