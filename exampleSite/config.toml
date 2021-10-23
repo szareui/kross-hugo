@@ -30,7 +30,7 @@ email = "zaresedighe77@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "09910627018"
+phone = ""
 theme_color = "#41228e"
 [params.contact]
 enable = true
