@@ -15,7 +15,10 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Wireframing and prototyping
+  - title: User Research and Strategy
+    progress: 96%
+    color: "#9473e6"
+  - title: Wireframing and Prototyping
     progress: 86%
     color: "#bdecf6"
   - title: UX writing
@@ -33,9 +36,6 @@ skill:
   - title: Curiosity and continuous learning
     progress: 70%
     color: "#ffbcaa"
-  - title: Empathy
-    progress: 96%
-    color: "#9473e6"
   - title: Interpersonal, collaborative, and communication skills
     progress: 50%
     color: "#fdb157"
