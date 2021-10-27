@@ -65,7 +65,7 @@ enable = false
 preloader = "images/preloader.gif"
 [[params.social]]
 URL = "https://t.me/S_Zare1998"
-icon = ""
+icon = "ti-telegram"
 [[params.social]]
 URL = "#"
 icon = "ti-facebook"
