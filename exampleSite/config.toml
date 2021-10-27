@@ -67,9 +67,6 @@ preloader = "images/preloader.gif"
 URL = "https://t.me/S_Zare1998"
 icon = "ti-telegram"
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
 URL = "https://www.instagram.com/s.zare.ui/"
 icon = "ti-instagram"
 [[params.social]]
