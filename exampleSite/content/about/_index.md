@@ -5,8 +5,8 @@ author_image: "/images/download.png"
 author_signature: "/images/backgrounds/education-bg.png"
 
 ---
-This is Sedighe Zare's website, a product designer in Iran.
+Hello! I am sedighe zare, a product designer from Iran.
 
 Using design solutions to solve problems is what I love to do.
 
-I'm here to share my work and write my experience with you; I hope this helps us grow.
+The purpose of this site is to share my work and experiences with you, and I hope this helps us all grow.
