@@ -34,5 +34,3 @@ fields:
 - type: text
   name: email
   label: email
-pages:
-- exampleSite/content/english/author/test1.md
