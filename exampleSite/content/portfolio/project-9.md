@@ -2,7 +2,7 @@
 title: ECG Monitoring Logo
 date: 2019-05-12T12:14:34.000+06:00
 image: "/images/instagram-post-3.png"
-client: sedighe zare
+client: Dr.Dehghan
 project_url: https://themefisher.com/
 categories:
 - Logo Design
