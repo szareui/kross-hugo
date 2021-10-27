@@ -5,7 +5,8 @@ image: "/images/ecg1.jpg"
 client: John Doe
 project_url: https://themefisher.com/
 categories:
-- branding
+- UI/UX Design
+- Development
 description: This is meta description.
 
 ---
