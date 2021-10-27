@@ -23,7 +23,7 @@ skill:
     color: "#FDED72"
   - title: User Interface (UI) Design
     progress: 90%
-    color: "#A9EFF2"
+    color: "#DDA5E9"
   - title: Responsive Web Design
     progress: 80%
     color: "#FCCC75"
