@@ -17,7 +17,7 @@ skill:
   item:
   - title: User Research and Strategy
     progress: 60%
-    color: "#9473e6"
+    color: "#A9EFF2"
   - title: Wireframing and Prototyping
     progress: 70%
     color: "#bdecf6"
