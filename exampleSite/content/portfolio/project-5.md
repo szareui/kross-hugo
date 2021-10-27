@@ -5,8 +5,7 @@ image: "/images/furniture.jpg"
 client: John Doe
 project_url: https://themefisher.com/
 categories:
-- illustration
-- development
+- UI/UX Design
 description: This is meta description.
 
 ---
