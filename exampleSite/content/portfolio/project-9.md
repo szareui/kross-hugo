@@ -5,7 +5,7 @@ image: "/images/instagram-post-3.png"
 client: John Doe
 project_url: https://themefisher.com/
 categories:
-- branding
+- Logo Design
 description: This is meta description.
 
 ---
