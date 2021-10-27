@@ -25,7 +25,7 @@ skill:
     progress: 90%
     color: "#A9EFF2"
   - title: Responsive Web Design
-    progress: 60%
+    progress: 80%
     color: "#fdb157"
 experience:
   enable: true
