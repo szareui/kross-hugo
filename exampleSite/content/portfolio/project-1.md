@@ -5,7 +5,6 @@ image: "/images/dribbble-7.png"
 client: John Doe
 project_url: https://themefisher.com/
 categories:
-- design
 - development
 description: This is meta description.
 
