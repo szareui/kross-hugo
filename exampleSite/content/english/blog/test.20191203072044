@@ -7,6 +7,6 @@ image_webp = ""
 title = "test"
 [menu.main]
 name = "mine"
-weight = 5
+weight = 4
 
 +++
