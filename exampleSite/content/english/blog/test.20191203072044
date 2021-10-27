@@ -5,5 +5,8 @@ description = "book concept"
 image = "/images/book.jpg"
 image_webp = ""
 title = "test"
+[menu.main]
+name = "mine"
+weight = 5
 
 +++
