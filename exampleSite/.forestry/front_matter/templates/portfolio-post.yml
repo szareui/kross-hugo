@@ -1,4 +1,27 @@
 ---
 label: Portfolio Post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Gallery
+- name: properties
+  type: include
+  config: {}
+  template: post
+  label: Properties
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
