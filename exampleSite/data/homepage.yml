@@ -27,9 +27,6 @@ skill:
   - title: User testing
     progress: 30%
     color: "#ffbcaa"
-  - title: Interpersonal, collaborative, and communication skills
-    progress: 50%
-    color: "#fdb157"
   - title: Critical thinking
     progress: 90%
     color: "#bdecf6"
@@ -39,6 +36,9 @@ skill:
   - title: Empathy
     progress: 96%
     color: "#9473e6"
+  - title: Interpersonal, collaborative, and communication skills
+    progress: 50%
+    color: "#fdb157"
 experience:
   enable: true
   title: Experience
