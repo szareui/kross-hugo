@@ -6,7 +6,7 @@ title = "SZ.UIUX"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = 4
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
