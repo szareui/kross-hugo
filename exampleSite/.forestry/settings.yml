@@ -6,10 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Portfolio
-- type: document
-  path: Portfolio
-  label: Portfolio Page
-  match: "**/*"
 - type: directory
   path: ''
   label: Portfolio Post
