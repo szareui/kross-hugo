@@ -21,12 +21,12 @@ skill:
   - title: Wireframing and Prototyping
     progress: 86%
     color: "#bdecf6"
+  - title: User Interface (UI) Design
+    progress: 90%
+    color: "#9473e6"
   - title: UX writing
     progress: 60%
     color: "#fdb157"
-  - title: Visual communication and UI
-    progress: 90%
-    color: "#9473e6"
   - title: User testing
     progress: 30%
     color: "#ffbcaa"
