@@ -7,8 +7,8 @@ sections:
 - type: heading
   label: Portfolio
 - type: directory
-  path: ''
-  label: Portfolio Post
+  path: exampleSite/content/portfolio
+  label: Portfolio
   create: all
   match: "**/*"
 - type: heading
