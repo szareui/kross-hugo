@@ -14,7 +14,7 @@ fields:
 - name: properties
   type: include
   config: {}
-  template: post
+  template: portfolio-post
   label: Properties
 - name: description
   type: textarea
