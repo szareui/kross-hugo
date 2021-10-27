@@ -2,7 +2,7 @@
 title: Car-Hailing App
 date: 2019-05-12T12:14:34.000+06:00
 image: "/images/dribbble-8.png"
-client: John Doe
+client: sedighe zare
 project_url: https://themefisher.com/
 categories:
 - UI/UX Design
