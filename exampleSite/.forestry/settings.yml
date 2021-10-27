@@ -7,6 +7,11 @@ sections:
 - type: heading
   label: Content
 - type: directory
+  path: exampleSite/content/about
+  label: About
+  create: all
+  match: "**/*"
+- type: directory
   path: exampleSite/content/portfolio
   label: Portfolio
   create: all
@@ -14,6 +19,11 @@ sections:
 - type: directory
   path: exampleSite/content/blog
   label: Blog
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/contact
+  label: Contact
   create: all
   match: "**/*"
 - type: heading
