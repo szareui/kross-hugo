@@ -2,7 +2,7 @@
 title: About
 description: This is meta description.
 author_image: "/images/download.png"
-author_signature: ''
+author_signature: "/images/backgrounds/education-bg.png"
 
 ---
 This is Sedighe Zare's website, a product designer in Iran.
