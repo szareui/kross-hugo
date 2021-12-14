@@ -30,7 +30,7 @@ email = "zaresedighe77@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = ""
+phone = "-"
 theme_color = "#41228e"
 [params.contact]
 enable = false
@@ -64,14 +64,8 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "https://t.me/S_Zare1998"
-icon = "ti-telegram-alt"
-[[params.social]]
 URL = "https://www.instagram.com/s.zare.ui/"
 icon = "ti-instagram"
 [[params.social]]
 URL = "https://dribbble.com/S_Zare"
 icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
