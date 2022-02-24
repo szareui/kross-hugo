@@ -64,6 +64,9 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/preloader.gif"
 [[params.social]]
+URL = "https://www.linkedin.com/in/sedighezare"
+icon = "ti-linkedin"
+[[params.social]]
 URL = "https://www.instagram.com/s.zare.ui/"
 icon = "ti-instagram"
 [[params.social]]
