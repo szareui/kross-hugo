@@ -1,0 +1,16 @@
+---
+label: Skill
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: author_image
+  label: author_image
+- type: file
+  name: author_signature
+  label: author_signature
