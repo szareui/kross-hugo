@@ -31,3 +31,10 @@ team:
 clients_logo_slider:
   enable: false
   title: My Clients
+skills:
+  enable: true
+  item:
+  - title: UI Design
+    icon: ''
+    experience_level: []
+  title: Skills
