@@ -2,15 +2,28 @@
 label: Skill
 hide_body: false
 fields:
-- type: text
-  name: title
-  label: title
-- type: text
-  name: description
-  label: description
-- type: file
-  name: author_image
-  label: author_image
+- name: skill
+  type: field_group_list
+  fields:
+  - name: skill_name
+    type: text
+    config:
+      required: false
+    label: skill name
+  - name: level
+    type: tag_list
+    default: []
+    label: level
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: image
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: skill
 - type: file
   name: author_signature
   label: author_signature
