@@ -36,6 +36,5 @@ skills:
   title: Skills
   item:
   - title: UI Design
-    icon: ''
-    experience_level: "asdsadsa"
-  
+    icon: "/images/icons/design.png"
+    experience_level: []
