@@ -1,6 +1,6 @@
 ---
 label: Skill
-hide_body: false
+hide_body: true
 fields:
 - name: skill
   type: field_group_list
