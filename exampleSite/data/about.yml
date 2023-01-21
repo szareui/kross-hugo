@@ -35,6 +35,18 @@ skills:
   enable: true
   title: Skills
   item:
+  - title: Responsive
+    icon: ''
+    experience_level: []
+  - title: Prototyping
+    icon: ''
+    experience_level: []
+  - title: Emphathy
+    icon: ''
+    experience_level: []
+  - title: UX Research
+    icon: ''
+    experience_level: []
   - title: UI Design
     icon: "/images/icons/design.png"
     experience_level: []
