@@ -12,7 +12,7 @@ about:
     label: know more
     URL: about
 skill:
-  enable: true
+  enable: false
   title: Skills
   item:
   - title: User Research and Strategy
@@ -45,22 +45,25 @@ experience:
     duration: Nov 2021 - Present
 education:
   enable: true
-  title: Education
+  title: Licenses & Certifications
   item:
-  - title: Computer Engineering
-    year: 2016 - 2020
-    academy: Yazd University
+  - title: Conducting Usability Testing
+    year: "2022"
+    academy: The Interaction Design Foundation
+  - title: Enterprise Design Thinking Practitioner
+    year: "2022"
+    academy: IBM
 service:
   enable: true
   title: Services
   item:
-  - title: UI Design
-    icon: ti-palette
+  - title: UX Design
+    icon: ti-vector
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
-  - title: UX Design
-    icon: ti-vector
+  - title: UI Design
+    icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: true
