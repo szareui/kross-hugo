@@ -33,8 +33,9 @@ clients_logo_slider:
   title: My Clients
 skills:
   enable: true
+  title: Skills
   item:
   - title: UI Design
     icon: ''
     experience_level: []
-  title: Skills
+  
