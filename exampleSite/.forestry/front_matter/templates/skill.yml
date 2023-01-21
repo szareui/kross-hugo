@@ -24,8 +24,5 @@ fields:
     max: 
     labelField: 
   label: skill
-- type: file
-  name: author_signature
-  label: author_signature
 pages:
 - exampleSite/content/about/skills on about.md
