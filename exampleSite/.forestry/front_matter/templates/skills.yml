@@ -1,0 +1,60 @@
+---
+label: Skills
+hide_body: true
+fields:
+- type: field_group
+  name: work_process
+  label: work_process
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: icon
+      label: icon
+    - type: textarea
+      name: content
+      label: content
+- type: field_group
+  name: team
+  label: team
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: team_member
+    label: team_member
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: designation
+      label: designation
+- type: field_group
+  name: clients_logo_slider
+  label: clients_logo_slider
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
