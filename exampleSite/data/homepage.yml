@@ -48,10 +48,10 @@ education:
   title: Licenses & Certifications
   item:
   - title: Conducting Usability Testing
-    year: sep 2022
+    year: Sep 2022
     academy: The Interaction Design Foundation
   - title: Enterprise Design Thinking Practitioner
-    year: "2022"
+    year: Jul 2022
     academy: IBM
 service:
   enable: true
