@@ -28,5 +28,3 @@ fields:
     max: 
     labelField: skill_name
   label: skill
-pages:
-- exampleSite/content/about/skills on about.md
