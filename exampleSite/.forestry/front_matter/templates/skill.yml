@@ -5,6 +5,10 @@ fields:
 - name: skill
   type: field_group_list
   fields:
+  - name: visible
+    type: boolean
+    label: visible
+    default: true
   - name: skill_name
     type: text
     config:
@@ -22,7 +26,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: skill_name
   label: skill
 pages:
 - exampleSite/content/about/skills on about.md
